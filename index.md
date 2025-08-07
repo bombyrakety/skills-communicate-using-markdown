@@ -8,3 +8,11 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+###### To-do list
+- [ ] Buy ingredients
+- [ ] Go for a walk
+- [ ] Prepare the food
+- [ ] Excersize
+      
+

@@ -5,4 +5,6 @@
 ![Topguntocat](https://octodex.github.com/images/topguntocat.png)
 
 
+``` javascript
 var myVar = "Hello, world!";
+```
